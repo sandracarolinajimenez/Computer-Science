@@ -1,0 +1,19 @@
+Ir a comer con un amigo a un restaurante 
+¿Tengo hambre? No/Sí
+¿Quiero salir a comer? No/Sí
+¿Quiero ir a comer solo? No/Sí
+¿A cuál amigo llamo? A/B/C
+Preguntar disponibilidad a amigo B
+Decidir cuál restaurante A/B/C
+Decidir hora de encuentro
+Reservar mesa
+Bañarse
+Vestirse
+Tomar cartera y llaves
+Salir de casa
+Conducir hasta el restaurante
+Esperar amigo B
+Entrar juntos a restaurante
+Ordenar la comida
+Esperar la comida
+Comer la comida
